@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ScreenOCRAI", "ScreenOCRAI\ScreenOCRAI.pyproj", "{89921AEF-DAA1-4063-9DF5-21A93436BCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89921AEF-DAA1-4063-9DF5-21A93436BCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89921AEF-DAA1-4063-9DF5-21A93436BCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E3371B-9EC5-4E74-A135-1B088361F2CB}
+	EndGlobalSection
+EndGlobal
